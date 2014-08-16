@@ -8,7 +8,7 @@
     <marshalling-strategies>
         <marshalling-strategy>
             <resolver>reflection</resolver>
-            <identifier>org.jbpm.document.marshalling.DocumentMarshallingStrategy</identifier>
+            <identifier>org.jbpm.console.ng.documents.backend.server.marshalling.CMISDocumentMarshallingStrategy</identifier>
         </marshalling-strategy>
     </marshalling-strategies>
     <event-listeners/>
